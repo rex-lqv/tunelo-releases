@@ -4,7 +4,7 @@
 Stop copy-pasting terminal commands. Manage all your tunnels in one place.
 
 <p align="center">
-  <img width="300" height="300" alt="Screenshot 2026-03-11 at 4 44 31 a m" src="https://github.com/user-attachments/assets/642e7d99-c97b-4d84-9aa9-661a8f2e0abd" />
+  <img width="300" height="300" alt="Screenshot 2026-03-11 at 4 44 31 a m" src="https://github.com/user-attachments/assets/60804dd5-f706-432c-9fd0-d51e46275831" />
 </p>
 
 ---
