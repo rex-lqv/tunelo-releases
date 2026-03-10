@@ -85,7 +85,7 @@ ssh -L 8080:localhost:8080 user@your-server.com -N
 
 **$9.99 — one-time purchase, lifetime updates.**
 
-👉 **[Get Tunelo](https://tunelo.lemonsqueezy.com)**
+👉 **[Get Tunelo](https://tunelo.lemonsqueezy.com/checkout/buy/04587353-2f20-479f-9cc0-6adcac9fee92)**
 
 ---
 
