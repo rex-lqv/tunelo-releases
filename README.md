@@ -4,10 +4,11 @@
 Stop copy-pasting terminal commands. Manage all your tunnels in one place.
 
 <p align="center">
-  <img width="300" height="300" alt="Screenshot 2026-03-11 at 4 44 31 a m" src="https://github.com/user-attachments/assets/60804dd5-f706-432c-9fd0-d51e46275831" />
+  <img width="300" height="300" alt="Screenshot 2026-03-11 at 4 44 31 a m" src="https://github.com/user-attachments/assets/9f1cc5c6-3a7a-4610-b3c5-83516f6b589b" />
 </p>
 
 ---
+
 
 ## Why Tunelo?
 
@@ -23,8 +24,9 @@ Tunelo is for you. Save it once, connect with one click.
 
 ## Features
 
+- ✅ **Free to start** — up to 3 tunnels, no account needed
+- ✅ **Pro plan** — unlimited tunnels for $2.99 one-time
 - ✅ **One-click connect/disconnect** — no more terminal copy-paste
-- ✅ **Unlimited tunnels** — manage all your connections in one place
 - ✅ **Full PTY support** — handles password, passphrase prompts natively
 - ✅ **Real-time output** — see exactly what's happening
 - ✅ **Works with any SSH command** — GCP, AWS, DigitalOcean, plain SSH
@@ -49,14 +51,13 @@ Right click → Open → Open Anyway
 ## Quick Start
 
 1. Download and install Tunelo
-2. Enter your license key
-3. Click **"Add Your First Tunnel"**
-4. Give it a name (e.g. `Production DB`)
-5. Paste your SSH command:
+2. Click **"Add Your First Tunnel"**
+3. Give it a name (e.g. `Production DB`)
+4. Paste your SSH command:
    ```
    gcloud compute ssh my-vm --project=my-project -- -L 5432:localhost:5432 -N
    ```
-6. Click **Save** → **Connect**
+5. Click **Save** → **Connect**
 
 That's it. 🟢
 
@@ -83,9 +84,12 @@ ssh -L 8080:localhost:8080 user@your-server.com -N
 
 ## Pricing
 
-**$9.99 — one-time purchase, lifetime updates.**
+| Plan | Price | Tunnels |
+|------|-------|---------|
+| Free | $0 | Up to 3 |
+| Pro  | $2.99 one-time | Unlimited |
 
-👉 **[Get Tunelo](https://tunelo.lemonsqueezy.com/checkout/buy/04587353-2f20-479f-9cc0-6adcac9fee92)**
+👉 **[Get Pro](https://tunelo.lemonsqueezy.com/checkout/buy/04587353-2f20-479f-9cc0-6adcac9fee92)**
 
 ---
 
